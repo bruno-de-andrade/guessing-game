@@ -1,0 +1,9 @@
+D:\Projects\ASP.NET\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe.config
+D:\Projects\ASP.NET\Guessing Game\Guessing Game\bin\Debug\Guessing Game.exe
+D:\Projects\ASP.NET\Guessing Game\Guessing Game\bin\Debug\Guessing Game.pdb
+D:\Projects\ASP.NET\Guessing Game\Guessing Game\obj\Debug\Guessing Game.csprojResolveAssemblyReference.cache
+D:\Projects\ASP.NET\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.Properties.Resources.resources
+D:\Projects\ASP.NET\Guessing Game\Guessing Game\obj\Debug\Guessing Game.csproj.GenerateResource.Cache
+D:\Projects\ASP.NET\Guessing Game\Guessing Game\obj\Debug\Guessing Game.exe
+D:\Projects\ASP.NET\Guessing Game\Guessing Game\obj\Debug\Guessing Game.pdb
+D:\Projects\ASP.NET\Guessing Game\Guessing Game\obj\Debug\Guessing_Game.ReadInformation.resources
